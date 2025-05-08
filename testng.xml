@@ -1,0 +1,16 @@
+<suite name="AutomationExerciseWebsite regression suite">
+    <test name="regression test">
+        <parameter name="browser" value="chrome"/>
+        <classes>
+            <class name="Tests.SignupTest"/>
+            <class name="Tests.LoginTest"/>
+            <class name="Tests.SearchTest"/>
+            <class name="Tests.AddToCartTest"/>
+            <class name="Tests.AddReviewTest"/>
+            <class name="Tests.CheckoutTest"/>
+            <class name="Tests.ContactusTest"/>
+            <class name="Tests.LogoutTest"/>
+            <class name="Tests.DeleteAccountTest"/>
+        </classes>
+    </test>
+</suite>
