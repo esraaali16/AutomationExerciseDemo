@@ -1,5 +1,5 @@
 # Automation Exercise Framework With Selenium
-** Selenium Test Automation Framework for E-commerce website "https://www.automationexercise.com/"
+* Selenium Test Automation Framework for E-commerce website "https://www.automationexercise.com/"
 
 # Tools And Technologies used
 - **Test Framework:** TestNG  
